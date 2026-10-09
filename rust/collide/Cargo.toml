@@ -1,0 +1,14 @@
+[package]
+name = "collide"
+version = "0.1.0"
+edition = "2021"
+description = "Time-stepped 1-D collision with a spring-damper contact: what an 'instant' hit looks like up close"
+publish = false
+
+# No dependencies on purpose: nothing to audit, nothing to download, and no
+# build scripts (Windows Smart App Control blocks unsigned build-script
+# executables; see the Teto project's notes).
+[dependencies]
+
+[profile.release]
+opt-level = 3
