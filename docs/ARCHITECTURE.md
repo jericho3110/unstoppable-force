@@ -31,7 +31,9 @@ Python module (PyO3) or C++ called through FFI?
 - **YAGNI:** the programs exchange a few lines of numbers, not millions, so
   there's nothing to gain from in-process speed.
 
-(The Teto project shows the in-process alternatives: FFI and WebAssembly.)
+(The Teto project shows the in-process alternatives, FFI and WebAssembly. Its
+[INTEROP.md](https://github.com/jericho3110/teto-desktop/blob/main/docs/INTEROP.md)
+explains every technique underneath and compares it with this project, §8.)
 
 ## One command, end to end
 

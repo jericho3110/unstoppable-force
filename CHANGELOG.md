@@ -5,6 +5,7 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/); versions: [Sem
 ## [0.1.1] - 2026-10-10
 
 ### Added
+- ARCHITECTURE links Teto's interoperability guide, which compares this project's subprocess-and-text design with FFI and WebAssembly.
 - `docs/MATH_PREREQUISITES.md`: the background math and physics MATH.md assumes, from algebra up to floating point, each section tied to the code, with a self-test. Linked from the README, MATH, LEARNING_PATH (new stage 0) and GLOSSARY.
 
 ## [0.1.0] - 2026-10-09
