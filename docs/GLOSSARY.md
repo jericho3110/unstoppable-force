@@ -3,6 +3,8 @@
 | Term | Meaning | Explained in |
 | --- | --- | --- |
 | restitution `e` | how bouncy a collision is: 1 elastic, 0 sticky | [MATH §1–2](MATH.md#2-solving-a-collision) |
+| indeterminate form | `∞/∞`, `0/0`, `∞ − ∞`, `0·∞`: no fixed value; the answer depends on how you got there | [PREREQ §7](MATH_PREREQUISITES.md#7-infinity-and-limits) |
+| reduced mass `μ` | `m·M/(m+M)`: two bodies on one spring act like one body of this mass | [PREREQ §11](MATH_PREREQUISITES.md#11-springs-oscillation-and-damping) |
 | momentum | mass × velocity; conserved in every collision | [MATH §2](MATH.md#2-solving-a-collision) |
 | limit | the value a quantity approaches, not a value it takes | [MATH §4](MATH.md#4-infinity-is-a-direction-not-a-number-limits) |
 | double limit | a limit in two variables; exists only if every path agrees | [MATH §4](MATH.md#4-infinity-is-a-direction-not-a-number-limits) |

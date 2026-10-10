@@ -4,6 +4,9 @@ Short answer: **the question has no answer, and the math shows exactly why.**
 Three separate arguments, one per language in this project, each say "no
 answer" in a different way.
 
+New to some of this (limits, momentum, floating point)? Read
+[MATH_PREREQUISITES.md](MATH_PREREQUISITES.md) first: it builds each idea from school algebra up.
+
 ## Contents
 
 1. [Setting it up as physics](#1-setting-it-up-as-physics)

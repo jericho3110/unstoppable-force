@@ -83,6 +83,7 @@ which runs this first.
 
 | Doc | What's in it |
 | --- | --- |
+| [docs/MATH_PREREQUISITES.md](docs/MATH_PREREQUISITES.md) | the background MATH.md assumes: algebra, momentum, energy, limits, logic, springs, time stepping, floating point, with a self-test |
 | [docs/MATH.md](docs/MATH.md) | **start here**: collisions, limits, iterated limits, the proof, contact forces, floating point |
 | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) | how the three parts fit together, and why |
 | [docs/LANGUAGES.md](docs/LANGUAGES.md) | why each language, its strengths here, and whether one would be enough |

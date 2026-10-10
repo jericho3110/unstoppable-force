@@ -2,6 +2,11 @@
 
 Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/); versions: [SemVer](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.1] - 2026-10-10
+
+### Added
+- `docs/MATH_PREREQUISITES.md`: the background math and physics MATH.md assumes, from algebra up to floating point, each section tied to the code, with a self-test. Linked from the README, MATH, LEARNING_PATH (new stage 0) and GLOSSARY.
+
 ## [0.1.0] - 2026-10-09
 
 ### Added

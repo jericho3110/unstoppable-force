@@ -2,6 +2,7 @@
 
 | Stage | Read | Concepts | Exercise | Self-check |
 | --- | --- | --- | --- | --- |
+| 0 | [MATH_PREREQUISITES.md](MATH_PREREQUISITES.md) | algebra, ratios, momentum, energy, limits, logic, floating point | its §14 self-test | why is `∞/∞` called indeterminate? |
 | 1 | [MATH.md](MATH.md) §1–3, `python/paradox/collision.py` | momentum, restitution, solving two equations, `Fraction` | derive `v_F` by hand | why do the masses cancel to a ratio? |
 | 2 | MATH.md §4–6, `limits.py`, `proof.py` | limits, paths, iterated limits, proof by contradiction | MATH.md exercise 3 (the path `m = M²`) | why does the double limit not exist? |
 | 3 | `plot.py` | SVG as text, coordinate transforms, log scale | add a fourth curve for `e = 0.25` | why does the test parse the SVG back? |
